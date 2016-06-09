@@ -1,0 +1,7343 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-08T15:13:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/320409795",
+      "properties": {
+        "@id": "node/320409795",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Поповича",
+        "name:be": "вуліца Паповіча",
+        "name:ru": "улица Поповича",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8021919,
+          53.6685512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320409829",
+      "properties": {
+        "@id": "node/320409829",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Лизы Чайкиной",
+        "name:be": "вуліца Лізы Чайкінай",
+        "name:ru": "улица Лизы Чайкиной",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.788953,
+          53.6651509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320409830",
+      "properties": {
+        "@id": "node/320409830",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Foliuš",
+        "name": "Фолюш",
+        "name:be": "Фолюш",
+        "name:ru": "Фолюш",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7834212,
+          53.6652295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320409842",
+      "properties": {
+        "@id": "node/320409842",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Лизы Чайкиной",
+        "name:be": "вуліца Лізы Чайкінай",
+        "name:ru": "улица Лизы Чайкиной",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7907901,
+          53.664239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320409845",
+      "properties": {
+        "@id": "node/320409845",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "plošča Dziekabrystaŭ",
+        "name": "площадь Декабристов",
+        "name:be": "плошча Дзекабрыстаў",
+        "name:ru": "площадь Декабристов",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8008549,
+          53.6636533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320409848",
+      "properties": {
+        "@id": "node/320409848",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "plošča Dziekabrystaŭ",
+        "name": "площадь Декабристов",
+        "name:be": "плошча Дзекабрыстаў",
+        "name:ru": "площадь Декабристов",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.798959,
+          53.6636668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320676302",
+      "properties": {
+        "@id": "node/320676302",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kurčatava",
+        "name": "улица Курчатова",
+        "name:be": "вуліца Курчатава",
+        "name:ru": "улица Курчатова",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8580508,
+          53.7053006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/347507534",
+      "properties": {
+        "@id": "node/347507534",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Стеклозавод",
+        "name:be": "Шклозавод",
+        "name:ru": "Стеклозавод",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8268729,
+          53.665602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/352676263",
+      "properties": {
+        "@id": "node/352676263",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Дом Науки и Техники",
+        "name:be": "Дом Навукі і Тэхнікі",
+        "name:ru": "Дом Науки и Техники",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8195924,
+          53.6979803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/352929479",
+      "properties": {
+        "@id": "node/352929479",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Форты",
+        "name:be": "Фарты",
+        "name:ru": "Форты",
+        "public_transport": "platform",
+        "route_ref": "6;20;24;34",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8026598,
+          53.6969451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/352929480",
+      "properties": {
+        "@id": "node/352929480",
+        "alt_name": "БЛК",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "бульвар Ленинского Комсомола 9",
+        "name:be": "бульвар Ленінскага Камсамола",
+        "name:ru": "бульвар Ленинского Комсомола",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8101857,
+          53.6981605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353051092",
+      "properties": {
+        "@id": "node/353051092",
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Кафе \"Романтика\"",
+        "name:be": "Кафэ \"Рамантыка\"",
+        "name:ru": "Кафе \"Романтика\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8205644,
+          53.6973566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353052064",
+      "properties": {
+        "@id": "node/353052064",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "кинотеатр \"Космос\"",
+        "name:be": "Кінатэатр «Космас»",
+        "name:ru": "Кинотеатр «Космос»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8251368,
+          53.6911698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353057025",
+      "properties": {
+        "@id": "node/353057025",
+        "highway": "bus_stop",
+        "name": "Рембыттехника",
+        "name:be": "Рэмбыттэхніка",
+        "name:ru": "Рембыттехника",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8291679,
+          53.6853581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387618810",
+      "properties": {
+        "@id": "node/387618810",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ленина",
+        "name:be": "вуліца Леніна",
+        "name:ru": "улица Ленина",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8404349,
+          53.6818699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387627658",
+      "properties": {
+        "@id": "node/387627658",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гуманитарный колледж",
+        "name:be": "Гуманітарны каледж",
+        "name:ru": "Гуманитарный колледж",
+        "old_name": "Педагогический колледж",
+        "public_transport": "platform",
+        "route_ref": "2;3;5;8;14;15;16;18;19;20;37",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8411909,
+          53.6781906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387715380",
+      "properties": {
+        "@id": "node/387715380",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гимназия № 5",
+        "name:be": "Гімназія № 5",
+        "name:ru": "Гимназия № 5",
+        "old_name:be": "СШ № 21",
+        "old_name:ru": "СШ № 21",
+        "public_transport": "platform",
+        "route_ref": "7;20;28",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.796707,
+          53.7030788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387715382",
+      "properties": {
+        "@id": "node/387715382",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гимназия № 5",
+        "name:be": "Гімназія № 5",
+        "name:ru": "Гимназия № 5",
+        "old_name:be": "СШ № 21",
+        "old_name:ru": "СШ № 21",
+        "public_transport": "platform",
+        "route_ref": "7;20;28",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7970426,
+          53.7020461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/390970665",
+      "properties": {
+        "@id": "node/390970665",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница № 3",
+        "name:be": "Бальніца № 3",
+        "name:ru": "Больница № 3",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7880858,
+          53.6986378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/391056399",
+      "properties": {
+        "@id": "node/391056399",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Фестивальная улица",
+        "name:be": "Фестывальная вуліца",
+        "name:ru": "Фестивальная улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8010744,
+          53.6904355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/391427240",
+      "properties": {
+        "@id": "node/391427240",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Форты",
+        "name:be": "Фарты",
+        "name:ru": "Форты",
+        "public_transport": "platform",
+        "route_ref": "6;24",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8028118,
+          53.6973444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/391427241",
+      "properties": {
+        "@id": "node/391427241",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Форты",
+        "name:be": "Фарты",
+        "name:ru": "Форты",
+        "public_transport": "platform",
+        "route_ref": "7;20;28",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8002106,
+          53.6982091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/418977869",
+      "properties": {
+        "@id": "node/418977869",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Обувная фабрика",
+        "name:be": "Абутковая фабрыка",
+        "name:ru": "Обувная фабрика",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8061881,
+          53.671451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/421950815",
+      "properties": {
+        "@id": "node/421950815",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гипермаркет \"Алми\"",
+        "name:ru": "Гипермаркет \"Алми\"",
+        "public_transport": "platform",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8615027,
+          53.671553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/421962534",
+      "properties": {
+        "@id": "node/421962534",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Румлёвский проспект",
+        "name:be": "Румлёўскі праспект",
+        "name:ru": "Румлёвский проспект",
+        "old_name": "СТОА",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8603503,
+          53.663856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428642560",
+      "properties": {
+        "@id": "node/428642560",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Пригородная улица",
+        "name:be": "Прыгарадная вуліца",
+        "name:ru": "Пригородная улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8483277,
+          53.6666476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429379287",
+      "properties": {
+        "@id": "node/429379287",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Фестивальная улица",
+        "name:be": "Фестывальная вуліца",
+        "name:ru": "Фестивальная улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8004176,
+          53.6891282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429379288",
+      "properties": {
+        "@id": "node/429379288",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Болдина",
+        "name:be": "вуліца Болдзіна",
+        "name:ru": "улица Болдина",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8006021,
+          53.6928061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429379289",
+      "properties": {
+        "@id": "node/429379289",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Болдина",
+        "name:be": "вуліца Болдзіна",
+        "name:ru": "улица Болдина",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8011837,
+          53.6933871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429379290",
+      "properties": {
+        "@id": "node/429379290",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Областная больница",
+        "name:be": "Абласная бальніца",
+        "name:ru": "Областная больница",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7944971,
+          53.6958588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431330918",
+      "properties": {
+        "@id": "node/431330918",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Karbyšava",
+        "name": "улица Карбышева",
+        "name:be": "вуліца Карбышава",
+        "name:ru": "улица Карбышева",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8422316,
+          53.6792075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431335367",
+      "properties": {
+        "@id": "node/431335367",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Железнодорожный вокзал",
+        "name:be": "Чыгуначны вакзал",
+        "name:ru": "Железнодорожный вокзал",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8475274,
+          53.6870281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431335369",
+      "properties": {
+        "@id": "node/431335369",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ожешко",
+        "name:be": "вуліца Ажэшкі",
+        "name:ru": "улица Ожешко",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.845256,
+          53.6861085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431340008",
+      "properties": {
+        "@id": "node/431340008",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Театр кукол",
+        "name:be": "Тэатр лялек",
+        "name:ru": "Театр кукол",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8353961,
+          53.6856794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431341287",
+      "properties": {
+        "@id": "node/431341287",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Детская больница",
+        "name:be": "Дзіцячая бальніца",
+        "name:ru": "Детская больница",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8363438,
+          53.6910746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/431346173",
+      "properties": {
+        "@id": "node/431346173",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Медицинский университет",
+        "name:be": "Медыцынскі ўніверсітэт",
+        "name:ru": "Медицинский университет",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8172257,
+          53.699337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445394314",
+      "properties": {
+        "@id": "node/445394314",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Maladziožnaja vulica",
+        "name": "Молодёжная улица",
+        "name:be": "Маладзёжная вуліца",
+        "name:ru": "Молодёжная улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8363237,
+          53.6781149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445394323",
+      "properties": {
+        "@id": "node/445394323",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Дом связи",
+        "name:be": "Дом сувязі",
+        "name:ru": "Дом связи",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8379979,
+          53.6769241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445397980",
+      "properties": {
+        "@id": "node/445397980",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Park Žylibiera",
+        "name": "Парк Жилибера",
+        "name:be": "Парк Жылібера",
+        "name:ru": "Парк Жилибера",
+        "old_name": "Центр занятости",
+        "old_name:be": "Цэнтр занятасці",
+        "old_name:ru": "Центр занятости",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8350452,
+          53.6875824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/456382905",
+      "properties": {
+        "@id": "node/456382905",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СМТ-30",
+        "name:be": "БМТ-30",
+        "name:ru": "СМТ-30",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8087833,
+          53.6987951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457640339",
+      "properties": {
+        "@id": "node/457640339",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Viasnovaja vulica",
+        "name": "Весенняя улица",
+        "name:be": "Вясновая вуліца",
+        "name:ru": "Весенняя улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8055248,
+          53.683859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457699017",
+      "properties": {
+        "@id": "node/457699017",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Торговый колледж",
+        "name:be": "Кааператыўны каледж",
+        "name:ru": "Торговый колледж",
+        "note": "На остановке две таблички на белорусском, \"Кааператыўны каледж\" и \"Тарговы калледж\"",
+        "note:route": "Авт. 7, 28; Трол. 8,10,12",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8044813,
+          53.6741978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457709643",
+      "properties": {
+        "@id": "node/457709643",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "училище Олимпийского Резерва",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8037392,
+          53.6736603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457714319",
+      "properties": {
+        "@id": "node/457714319",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "zavulak Papoviča",
+        "name": "переулок Поповича",
+        "name:be": "завулак Паповіча",
+        "name:ru": "переулок Поповича",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8014907,
+          53.6759102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457714320",
+      "properties": {
+        "@id": "node/457714320",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "zavulak Papoviča",
+        "name": "переулок Поповича",
+        "name:be": "завулак Паповіча",
+        "name:ru": "переулок Поповича",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8029783,
+          53.675495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457714321",
+      "properties": {
+        "@id": "node/457714321",
+        "highway": "bus_stop",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7955531,
+          53.6742528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462597932",
+      "properties": {
+        "@id": "node/462597932",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Домбровского",
+        "name:be": "вуліца Дамброўскага",
+        "name:ru": "улица Домбровского",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7956002,
+          53.7065251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/467926933",
+      "properties": {
+        "@id": "node/467926933",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Томина",
+        "name:be": "вуліца Томіна",
+        "name:ru": "улица Томина",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.83218,
+          53.6517374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468000466",
+      "properties": {
+        "@id": "node/468000466",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "магазин \"Ника\"",
+        "name:be": "магазін \"Ніка\"",
+        "name:ru": "магазин \"Ника\"",
+        "old_name": "АЗС",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8374874,
+          53.6479887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/468000488",
+      "properties": {
+        "@id": "node/468000488",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "магазин \"Ника\"",
+        "name:be": "магазін \"Ніка\"",
+        "name:ru": "магазин \"Ника\"",
+        "old_name": "АЗС",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8394933,
+          53.6486566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471704412",
+      "properties": {
+        "@id": "node/471704412",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Церковь всех белорусских святых",
+        "name:be": "Царква Усіх Беларускіх Святых",
+        "name:ru": "Церковь всех белорусских святых",
+        "public_transport": "platform",
+        "shelter": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8558982,
+          53.6532169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471704481",
+      "properties": {
+        "@id": "node/471704481",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница №4",
+        "name:be": "Бальніца №4",
+        "name:ru": "Больница №4",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8594154,
+          53.6502513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/471704609",
+      "properties": {
+        "@id": "node/471704609",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Церковь всех белорусских святых",
+        "name:be": "Царква Усіх Беларускіх Святых",
+        "name:ru": "Церковь всех белорусских святых",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.855099,
+          53.6516431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483668126",
+      "properties": {
+        "@id": "node/483668126",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "кинотеатр \"Восток\"",
+        "name:be": "кінатэатр \"Усход\"",
+        "name:ru": "кинотеатр \"Восток\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8510198,
+          53.6755422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483668131",
+      "properties": {
+        "@id": "node/483668131",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автовокзал",
+        "name:be": "Аўтавакзал",
+        "name:ru": "Автовокзал",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8433941,
+          53.676716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483668152",
+      "properties": {
+        "@id": "node/483668152",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Хлебозавод",
+        "name:be": "Хлебазавод",
+        "name:ru": "Хлебозавод",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8351212,
+          53.6947181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483668159",
+      "properties": {
+        "@id": "node/483668159",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Puškina",
+        "name": "улица Пушкина",
+        "name:be": "вуліца Пушкіна",
+        "name:ru": "улица Пушкина",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8317992,
+          53.6971223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483675942",
+      "properties": {
+        "@id": "node/483675942",
+        "alt_name": "БЛК",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "бульвар Ленинского Комсомола",
+        "name:be": "бульвар Ленінскага Камсамола",
+        "name:ru": "бульвар Ленинского Комсомола",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80762,
+          53.6981014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/483740204",
+      "properties": {
+        "@id": "node/483740204",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Дубко",
+        "name:be": "вуліца Дубко",
+        "name:ru": "улица Дубко",
+        "old_name": "Родильный дом",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8219578,
+          53.6995581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/492603180",
+      "properties": {
+        "@id": "node/492603180",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "13-я школа",
+        "name:be": "13-я школа",
+        "name:ru": "13-я школа",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8550355,
+          53.6804979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/492603221",
+      "properties": {
+        "@id": "node/492603221",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Пролетарская улица",
+        "name:be": "Пралетарская вуліца",
+        "name:ru": "Пролетарская улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8532089,
+          53.6876755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506553532",
+      "properties": {
+        "@id": "node/506553532",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Маслобаза",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8769202,
+          53.6903525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506553533",
+      "properties": {
+        "@id": "node/506553533",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автокомбинат №9",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8783017,
+          53.6885294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506553534",
+      "properties": {
+        "@id": "node/506553534",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автокомбинат №9",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8782161,
+          53.6879691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506553579",
+      "properties": {
+        "@id": "node/506553579",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Механический завод",
+        "name:be": "Механічны завод",
+        "name:ru": "Механический завод",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8878937,
+          53.6782644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506553713",
+      "properties": {
+        "@id": "node/506553713",
+        "highway": "bus_stop",
+        "name": "Гродноазот",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8904877,
+          53.6725076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506553732",
+      "properties": {
+        "@id": "node/506553732",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Азот",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8879052,
+          53.6696088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507052813",
+      "properties": {
+        "@id": "node/507052813",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Друцк",
+        "name:be": "вуліца Друцк",
+        "name:ru": "улица Друцк",
+        "old_name": "Автоинспекция",
+        "public_transport": "platform",
+        "route_ref": "5;12;13;18;27",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8620997,
+          53.6704789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507053096",
+      "properties": {
+        "@id": "node/507053096",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Райсельхозтехника",
+        "name:ru": "Райсельхозтехника",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8702271,
+          53.6641255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/507053247",
+      "properties": {
+        "@id": "node/507053247",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8696199,
+          53.6660068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/517455834",
+      "properties": {
+        "@id": "node/517455834",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Traliejbusnaje upraŭliennie",
+        "name": "Троллейбусное управление",
+        "name:be": "Тралейбуснае упраўленне",
+        "name:ru": "Троллейбусное управление",
+        "public_transport": "platform",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8640219,
+          53.6737676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/517535527",
+      "properties": {
+        "@id": "node/517535527",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ГАИ",
+        "name:be": "ДАІ",
+        "name:ru": "ГАИ",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8605638,
+          53.6700041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/517535531",
+      "properties": {
+        "@id": "node/517535531",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ГАИ",
+        "name:be": "ДАІ",
+        "name:ru": "ГАИ",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8600751,
+          53.6711272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522814962",
+      "properties": {
+        "@id": "node/522814962",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Клецкова",
+        "name:be": "праспект Кляцкога",
+        "name:ru": "проспект Клецкова",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8459297,
+          53.6492548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522934844",
+      "properties": {
+        "@id": "node/522934844",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Фомичёва",
+        "name:be": "вуліца Фамічова",
+        "name:ru": "улица Фомичёва",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8413289,
+          53.6571558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522934860",
+      "properties": {
+        "@id": "node/522934860",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "praspiekt Janki Kupaly",
+        "name": "проспект Янки Купалы",
+        "name:be": "праспект Янкі Купалы",
+        "name:ru": "проспект Янки Купалы",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8527638,
+          53.6529324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522934882",
+      "properties": {
+        "@id": "node/522934882",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Фомичёва",
+        "name:be": "вуліца Фамічова",
+        "name:ru": "улица Фомичёва",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8409018,
+          53.6576162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522934900",
+      "properties": {
+        "@id": "node/522934900",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Средняя школа №3",
+        "name:ru": "Средняя школа №3",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8471948,
+          53.6613107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/523866088",
+      "properties": {
+        "@id": "node/523866088",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Парижской Коммуны",
+        "name:be": "вуліца Парыжскай Камуны",
+        "name:ru": "улица Парижской Коммуны",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8312459,
+          53.6752797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/524212287",
+      "properties": {
+        "@id": "node/524212287",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "кинотеатр \"Восток\"",
+        "name:be": "кінатэатр \"Усход\"",
+        "name:ru": "кинотеатр \"Восток\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8516567,
+          53.6751579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/527169340",
+      "properties": {
+        "@id": "node/527169340",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Пинскдрев",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8235083,
+          53.6926499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540085270",
+      "properties": {
+        "@id": "node/540085270",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Форты",
+        "name:be": "Фарты",
+        "name:ru": "Форты",
+        "note": "Останавливаются только автобусы идущие с ул. Домбровского",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8007199,
+          53.6956407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540450802",
+      "properties": {
+        "@id": "node/540450802",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Грандичи Магазин",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8145683,
+          53.7231085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540450803",
+      "properties": {
+        "@id": "node/540450803",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Грандичи Магазин",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8139446,
+          53.7224492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540468193",
+      "properties": {
+        "@id": "node/540468193",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гронитекс",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8162003,
+          53.7076157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540468194",
+      "properties": {
+        "@id": "node/540468194",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гронитекс",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8158803,
+          53.7066361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540468199",
+      "properties": {
+        "@id": "node/540468199",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Сквер памяти войнов афганцев",
+        "name:be": "Сквер памяці войнаў аўганцаў",
+        "name:ru": "Сквер памяти войнов афганцев",
+        "old_name": "улица Курчатова",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8156511,
+          53.7048087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540468228",
+      "properties": {
+        "@id": "node/540468228",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Богуцкого",
+        "name:be": "вуліца Багуцкага",
+        "name:ru": "улица Богуцкого",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8143716,
+          53.7104013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/540468240",
+      "properties": {
+        "@id": "node/540468240",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Богуцкого",
+        "name:be": "вуліца Багуцкага",
+        "name:ru": "улица Богуцкого",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8141094,
+          53.7127556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550195828",
+      "properties": {
+        "@id": "node/550195828",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ЖЭС №20",
+        "name:be": "ЖЭС №20",
+        "name:ru": "ЖЭС №20",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8448097,
+          53.6412277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/550400917",
+      "properties": {
+        "@id": "node/550400917",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kabiaka",
+        "name": "улица Кабяка",
+        "name:be": "вуліца Кабяка",
+        "name:ru": "улица Кабяка",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.850626,
+          53.6436593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/553542262",
+      "properties": {
+        "@id": "node/553542262",
+        "highway": "bus_stop",
+        "source": "yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7535593,
+          53.6942458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/553542490",
+      "properties": {
+        "@id": "node/553542490",
+        "highway": "bus_stop",
+        "shelter": "yes",
+        "source": "yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7542849,
+          53.6926844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/558675966",
+      "properties": {
+        "@id": "node/558675966",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Институт Последипломного Образования",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8065815,
+          53.7040683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/558676018",
+      "properties": {
+        "@id": "node/558676018",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Поликлиника №4",
+        "name:be": "Паліклініка №4",
+        "name:ru": "Поликлиника №4",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8067991,
+          53.7026579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/558676030",
+      "properties": {
+        "@id": "node/558676030",
+        "alt_name": "ДК \"Юность\"",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "колледж Приборостроения",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8080681,
+          53.7034197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559449960",
+      "properties": {
+        "@id": "node/559449960",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Школа",
+        "name:be": "Школа",
+        "name:ru": "Школа",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7673669,
+          53.6718505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559449990",
+      "properties": {
+        "@id": "node/559449990",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Школа",
+        "name:be": "Школа",
+        "name:ru": "Школа",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7664253,
+          53.6720507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559488479",
+      "properties": {
+        "@id": "node/559488479",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Лососно",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7748062,
+          53.6747852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/559614286",
+      "properties": {
+        "@id": "node/559614286",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Репина",
+        "name:be": "вуліца Рэпіна",
+        "name:ru": "улица Репина",
+        "public_transport": "platform",
+        "source": "yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7876032,
+          53.6554305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/566474014",
+      "properties": {
+        "@id": "node/566474014",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Horkaha",
+        "name": "улица Горького",
+        "name:be": "вуліца Горкага",
+        "name:ru": "улица Горького",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8122421,
+          53.7157641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/566477282",
+      "properties": {
+        "@id": "node/566477282",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Horkaha",
+        "name": "улица Горького",
+        "name:be": "вуліца Горкага",
+        "name:ru": "улица Горького",
+        "public_transport": "platform",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8129338,
+          53.7156606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571696869",
+      "properties": {
+        "@id": "node/571696869",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Торговое предприятие \"Лимож\"",
+        "name:be": "Гандлёвае прадпрыемства \"Лімож\"",
+        "name:ru": "Торговое предприятие \"Лимож\"",
+        "old_name": "СШ №28",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84886,
+          53.7011408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571696879",
+      "properties": {
+        "@id": "node/571696879",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ № 28",
+        "name:be": "СШ № 28",
+        "name:ru": "СШ № 28",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8505033,
+          53.7006139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571696980",
+      "properties": {
+        "@id": "node/571696980",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Районные электрические сети",
+        "name:be": "Раённыя электрычныя сеткі",
+        "name:ru": "Районные электрические сети",
+        "old_name": "улица Тавлая",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8542744,
+          53.6950673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571697053",
+      "properties": {
+        "@id": "node/571697053",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ЖЭС №19",
+        "name:be": "ЖЭС №19",
+        "name:ru": "ЖЭС №19",
+        "old_name": "улица Брикеля",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8551512,
+          53.6983789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571697067",
+      "properties": {
+        "@id": "node/571697067",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ЖЭС №19",
+        "name:be": "ЖЭС №19",
+        "name:ru": "ЖЭС №19",
+        "old_name": "улица Брикеля",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8545267,
+          53.699157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571697087",
+      "properties": {
+        "@id": "node/571697087",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ № 28",
+        "name:be": "СШ № 28",
+        "name:ru": "СШ № 28",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8497634,
+          53.7012743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571723336",
+      "properties": {
+        "@id": "node/571723336",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ № 36",
+        "name:be": "СШ № 36",
+        "name:ru": "СШ № 36",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8493072,
+          53.7064028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571723353",
+      "properties": {
+        "@id": "node/571723353",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ № 36",
+        "name:be": "СШ № 36",
+        "name:ru": "СШ № 36",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8498571,
+          53.7076545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724656",
+      "properties": {
+        "@id": "node/571724656",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Limoža",
+        "name": "улица Лиможа",
+        "name:be": "вуліца Ліможа",
+        "name:ru": "улица Лиможа",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8494018,
+          53.7101872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571724659",
+      "properties": {
+        "@id": "node/571724659",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Limoža",
+        "name": "улица Лиможа",
+        "name:be": "вуліца Ліможа",
+        "name:ru": "улица Лиможа",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8497823,
+          53.7120464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571727605",
+      "properties": {
+        "@id": "node/571727605",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гроднооблнефтепродукт",
+        "name:be": "Гроднааблнафтапрадукт",
+        "name:ru": "Гроднооблнефтепродукт",
+        "old_name": "Нефтебаза",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8390571,
+          53.7072473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/571727611",
+      "properties": {
+        "@id": "node/571727611",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Девятовка",
+        "name:be": "Дзевятоўка",
+        "name:ru": "Девятовка",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8396605,
+          53.7108154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/572299808",
+      "properties": {
+        "@id": "node/572299808",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Padkryžackaja vulica",
+        "name": "Падрыжацкая улица",
+        "name:be": "Падрыжацкая вуліца",
+        "name:ru": "Падрыжацкая улица",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8584678,
+          53.6999443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/572300012",
+      "properties": {
+        "@id": "node/572300012",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Тавлая",
+        "name:be": "вуліца Таўлая",
+        "name:ru": "улица Тавлая",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8586024,
+          53.7042796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/574866391",
+      "properties": {
+        "@id": "node/574866391",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Домбровского",
+        "name:be": "вуліца Дамброўскага",
+        "name:ru": "улица Домбровского",
+        "public_transport": "platform",
+        "route_ref": "7;20;28",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7957977,
+          53.7053702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/575962840",
+      "properties": {
+        "@id": "node/575962840",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Viasnovaja vulica",
+        "name": "Весенняя улица",
+        "name:be": "Вясновая вуліца",
+        "name:ru": "Весенняя улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8067772,
+          53.6829056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/577361981",
+      "properties": {
+        "@id": "node/577361981",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Институт биохимии",
+        "name:be": "Інстытут біяхіміі",
+        "name:ru": "Институт биохимии",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7972793,
+          53.6960956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598298392",
+      "properties": {
+        "@id": "node/598298392",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Химиков",
+        "name:be": "вуліца Хімікаў",
+        "name:ru": "улица Химиков",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8599339,
+          53.6431765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/598298393",
+      "properties": {
+        "@id": "node/598298393",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Химиков",
+        "name:be": "вуліца Хімікаў",
+        "name:ru": "улица Химиков",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8605604,
+          53.642415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/648549185",
+      "properties": {
+        "@id": "node/648549185",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Румлёвский проспект",
+        "name:be": "Румлёўскі праспект",
+        "name:ru": "Румлёвский проспект",
+        "old_name": "СТОА",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8610346,
+          53.6649582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660628859",
+      "properties": {
+        "@id": "node/660628859",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Хлебозавод",
+        "name:be": "Хлебазавод",
+        "name:ru": "Хлебозавод",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8348546,
+          53.6923259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660629167",
+      "properties": {
+        "@id": "node/660629167",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гроднооблнефтепродукт",
+        "name:be": "Гроднааблнафтапрадукт",
+        "name:ru": "Гроднооблнефтепродукт",
+        "old_name": "Нефтебаза",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8401007,
+          53.7077644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/661079466",
+      "properties": {
+        "@id": "node/661079466",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Радиоволна",
+        "name:be": "Радыёхваля",
+        "name:ru": "Радиоволна",
+        "old_name:ru": "Автомагнитола",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8181557,
+          53.7049814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/661087659",
+      "properties": {
+        "@id": "node/661087659",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "колледж Легкой Промышленности",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8168894,
+          53.704173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/674941480",
+      "properties": {
+        "@id": "node/674941480",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "МЧС",
+        "name:be": "МНС",
+        "name:ru": "МЧС",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8301178,
+          53.7004433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/687191676",
+      "properties": {
+        "@id": "node/687191676",
+        "highway": "bus_stop",
+        "name": "завод \"БелТАПАЗ\"",
+        "name:ru": "завод \"БелТАПАЗ\"",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8260309,
+          53.7138558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700322741",
+      "properties": {
+        "@id": "node/700322741",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Клецкова",
+        "name:be": "праспект Кляцкога",
+        "name:ru": "проспект Клецкова",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8445509,
+          53.6494228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/721382302",
+      "properties": {
+        "@id": "node/721382302",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Врублевского",
+        "name:be": "вуліца Урублеўскага",
+        "name:ru": "улица Врублевского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8045148,
+          53.7082236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/724399827",
+      "properties": {
+        "@id": "node/724399827",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "praspiekt Janki Kupaly",
+        "name": "проспект Янки Купалы",
+        "name:be": "праспект Янкі Купалы",
+        "name:ru": "проспект Янки Купалы",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8521592,
+          53.652783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/724447433",
+      "properties": {
+        "@id": "node/724447433",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Румлёво",
+        "name:ru": "Румлёво",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8573671,
+          53.6565222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/736634019",
+      "properties": {
+        "@id": "node/736634019",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Рябиновая улица",
+        "name:be": "Рабінавая вуліца",
+        "name:ru": "Рябиновая улица",
+        "public_transport": "platform",
+        "source": "yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7486052,
+          53.6702611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/752022868",
+      "properties": {
+        "@id": "node/752022868",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Южная улица",
+        "name:be": "Паўднёвая вуліца",
+        "name:ru": "Южная улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8690711,
+          53.6431046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769817040",
+      "properties": {
+        "@id": "node/769817040",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Томина",
+        "name:be": "вуліца Томіна",
+        "name:ru": "улица Томина",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.832986,
+          53.6516187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769817041",
+      "properties": {
+        "@id": "node/769817041",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Румлёво",
+        "name:ru": "Румлёво",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8582971,
+          53.6572242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769817042",
+      "properties": {
+        "@id": "node/769817042",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "гостиница \"Турист\"",
+        "name:be": "гасцініца \"Турыст\"",
+        "name:ru": "гостиница \"Турист\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8489765,
+          53.6540794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769817043",
+      "properties": {
+        "@id": "node/769817043",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "гостиница \"Турист\"",
+        "name:be": "гасцініца \"Турыст\"",
+        "name:ru": "гостиница \"Турист\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8478977,
+          53.6548899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847373",
+      "properties": {
+        "@id": "node/769847373",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Суворова",
+        "name:be": "вуліца Суворава",
+        "name:ru": "улица Суворова",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8150988,
+          53.6612069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847374",
+      "properties": {
+        "@id": "node/769847374",
+        "alt_name:be": "Перамаганосная вуліца",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Победоносная",
+        "name:be": "вуліца Перамоганосная",
+        "name:ru": "улица Победоносная",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8581635,
+          53.6744936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847375",
+      "properties": {
+        "@id": "node/769847375",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Табачная фабрика",
+        "name:be": "Тытунёвая фабрыка",
+        "name:ru": "Табачная фабрика",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8205087,
+          53.666929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847376",
+      "properties": {
+        "@id": "node/769847376",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Акционерное Общество \"БелКард\"",
+        "name:be": "Акцыянернае Таварыства \"БелКард\"",
+        "name:ru": "Акционерное Общество \"БелКард\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8260198,
+          53.6665231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847377",
+      "properties": {
+        "@id": "node/769847377",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Областная филармония",
+        "name:be": "Абласная філармонія",
+        "name:ru": "Областная филармония",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8232635,
+          53.6678104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847378",
+      "properties": {
+        "@id": "node/769847378",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Суворова",
+        "name:be": "вуліца Суворава",
+        "name:ru": "улица Суворова",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.817042,
+          53.6617871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847379",
+      "properties": {
+        "@id": "node/769847379",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Победы",
+        "name:be": "вуліца Перамогі",
+        "name:ru": "улица Победы",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8309624,
+          53.6620808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847380",
+      "properties": {
+        "@id": "node/769847380",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автобусный парк",
+        "name:be": "Аўтобусны парк",
+        "name:ru": "Автобусный парк",
+        "old_name": "улица Пестрака",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8361505,
+          53.6592091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847382",
+      "properties": {
+        "@id": "node/769847382",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "универсам \"Октябрьский\"",
+        "name:ru": "Универсам «Октябрьский»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81755,
+          53.66987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847383",
+      "properties": {
+        "@id": "node/769847383",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Индурское шоссе",
+        "name:be": "Індурская шаша",
+        "name:ru": "Индурское шоссе",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8365368,
+          53.6468153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847384",
+      "properties": {
+        "@id": "node/769847384",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кутузова",
+        "name:be": "вуліца Кутузава",
+        "name:ru": "улица Кутузова",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8083655,
+          53.6592607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847385",
+      "properties": {
+        "@id": "node/769847385",
+        "alt_name:be": "Перамаганосная вуліца",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Победоносная",
+        "name:be": "вуліца Перамоганосная",
+        "name:ru": "улица Победоносная",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8574,
+          53.67473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847386",
+      "properties": {
+        "@id": "node/769847386",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Harnavych",
+        "name": "улица Горновых",
+        "name:be": "вуліца Гарнавых",
+        "name:ru": "улица Горновых",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.823427,
+          53.6694851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847387",
+      "properties": {
+        "@id": "node/769847387",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автобусный парк",
+        "name:be": "Аўтобусны парк",
+        "name:ru": "Автобусный парк",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8319242,
+          53.6617799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847388",
+      "properties": {
+        "@id": "node/769847388",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Uschodniaja vulica",
+        "name": "Гипермаркет \"Алми\"",
+        "name:ru": "Гипермаркет \"Алми\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8606046,
+          53.6729553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/769847389",
+      "properties": {
+        "@id": "node/769847389",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Стоматологическая поликлиника",
+        "name:be": "Стаматалагічная паліклініка",
+        "name:ru": "Стоматологическая поликлиника",
+        "name:uk": "Стоматологічна поліклініка",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8107284,
+          53.6593181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/771956595",
+      "properties": {
+        "@id": "node/771956595",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Плодовощесервис",
+        "name:be": "ПлодаАгароднінаСэрвіс",
+        "name:ru": "ПлодОвощеСервис",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8307637,
+          53.6541434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/771956997",
+      "properties": {
+        "@id": "node/771956997",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Плодовощесервис",
+        "name:be": "ПлодаАгароднінаСэрвіс",
+        "name:ru": "ПлодОвощеСервис",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.831018,
+          53.6553766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/772146718",
+      "properties": {
+        "@id": "node/772146718",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "РСУ–2",
+        "name:be": "РБУ–2",
+        "name:ru": "РСУ–2",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81967,
+          53.65545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/778512633",
+      "properties": {
+        "@id": "node/778512633",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Колбасино",
+        "name:be": "Калбасіно",
+        "name:ru": "Колбасино",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7729793,
+          53.6440158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810018755",
+      "properties": {
+        "@id": "node/810018755",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ №37",
+        "name:be": "СШ №37",
+        "name:ru": "СШ №37",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7800574,
+          53.6567654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810018765",
+      "properties": {
+        "@id": "node/810018765",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ольги Соломовой",
+        "name:be": "вуліца Вольгі Саломавай",
+        "name:ru": "улица Ольги Соломовой",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7900698,
+          53.6691713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810018790",
+      "properties": {
+        "@id": "node/810018790",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "1000 мелочей",
+        "name:be": "1000 дробязей",
+        "name:ru": "1000 мелочей",
+        "name:uk": "1000 дрібниць",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7931264,
+          53.6724723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810057025",
+      "properties": {
+        "@id": "node/810057025",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Колбасино",
+        "name:be": "Калбасіно",
+        "name:ru": "Колбасино",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7767225,
+          53.6458901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810057067",
+      "properties": {
+        "@id": "node/810057067",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ольги Соломовой",
+        "name:be": "вуліца Вольгі Саломавай",
+        "name:ru": "улица Ольги Соломовой",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7785107,
+          53.6533896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/810327445",
+      "properties": {
+        "@id": "node/810327445",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Лососно",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7748927,
+          53.6750183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/816814535",
+      "properties": {
+        "@id": "node/816814535",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Советская площадь",
+        "name:be": "Савецкая плошча",
+        "name:ru": "Советская площадь",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8300754,
+          53.6777483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/816859292",
+      "properties": {
+        "@id": "node/816859292",
+        "highway": "bus_stop",
+        "name": "Дом Муравьёвых",
+        "name:be": "Савецкая плошча",
+        "name:ru": "Советская площадь",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8298334,
+          53.6788017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/836147035",
+      "properties": {
+        "@id": "node/836147035",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Karskaha",
+        "name": "улица Карского",
+        "name:be": "вуліца Карскага",
+        "name:ru": "улица Карского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8805223,
+          53.6851376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/836148496",
+      "properties": {
+        "@id": "node/836148496",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Karskaha",
+        "name": "улица Карского",
+        "name:be": "вуліца Карскага",
+        "name:ru": "улица Карского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8802135,
+          53.6845325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/847177176",
+      "properties": {
+        "@id": "node/847177176",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Hrandzickaja vulica",
+        "name": "Грандичская улица",
+        "name:be": "Грандзіцкая вуліца",
+        "name:ru": "Грандичская улица",
+        "public_transport": "platform",
+        "route_ref": "11;25",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.813468,
+          53.7212639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/847177186",
+      "properties": {
+        "@id": "node/847177186",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Богуцкого",
+        "name:be": "вуліца Багуцкага",
+        "name:ru": "улица Богуцкого",
+        "note": "нужно уточнить. остановки нет, просто карман",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.813781,
+          53.7119922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/890949599",
+      "properties": {
+        "@id": "node/890949599",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Электротехнический колледж",
+        "name:be": "Электратэхнічны каледж",
+        "name:ru": "Электротехнический колледж",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8396241,
+          53.6981876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/890949668",
+      "properties": {
+        "@id": "node/890949668",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Cieraškovaj",
+        "name": "улица Терешковой",
+        "name:be": "вуліца Церашковай",
+        "name:ru": "улица Терешковой",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8386628,
+          53.6938445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/890949690",
+      "properties": {
+        "@id": "node/890949690",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Брикеля",
+        "name:be": "вуліца Брыкеля",
+        "name:ru": "улица Брикеля",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8396533,
+          53.700262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/917139972",
+      "properties": {
+        "@id": "node/917139972",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Дорожно-строительный трест №6",
+        "name:be": "Дарожна-будаўнічы трэст №6",
+        "name:ru": "Дорожно-строительный трест №6",
+        "old_name": "Автобусный парк №1",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.830408,
+          53.6609902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186894",
+      "properties": {
+        "@id": "node/969186894",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Советская площадь",
+        "name:be": "Савецкая плошча",
+        "name:ru": "Советская площадь",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8303693,
+          53.6772992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186897",
+      "properties": {
+        "@id": "node/969186897",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "универсам \"Вишнявец\"",
+        "name:be": "універсам \"Вішнявец\"",
+        "name:ru": "универсам \"Вишнявец\"",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8402723,
+          53.6436712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186900",
+      "properties": {
+        "@id": "node/969186900",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Заслоново",
+        "name:be": "вуліца Заслонава",
+        "name:ru": "улица Заслоново",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8658789,
+          53.690282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186903",
+      "properties": {
+        "@id": "node/969186903",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Заслоново",
+        "name:be": "вуліца Заслонава",
+        "name:ru": "улица Заслоново",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8640743,
+          53.6904387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186904",
+      "properties": {
+        "@id": "node/969186904",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "13-я школа",
+        "name:be": "13-я школа",
+        "name:ru": "13-я школа",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8544128,
+          53.6795339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186910",
+      "properties": {
+        "@id": "node/969186910",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Локомотивное депо",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8572094,
+          53.6895674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186914",
+      "properties": {
+        "@id": "node/969186914",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "универсам \"Вишнявец\"",
+        "name:be": "універсам \"Вішнявец\"",
+        "name:ru": "универсам \"Вишнявец\"",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8392821,
+          53.6449761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186915",
+      "properties": {
+        "@id": "node/969186915",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "5-я школа",
+        "name:be": "5-я школа",
+        "name:ru": "5-я школа",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8546632,
+          53.6834778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186916",
+      "properties": {
+        "@id": "node/969186916",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автовокзал",
+        "name:be": "Аўтавакзал",
+        "name:ru": "Автовокзал",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8432417,
+          53.6763488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186924",
+      "properties": {
+        "@id": "node/969186924",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "5-я школа",
+        "name:be": "5-я школа",
+        "name:ru": "5-я школа",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8542961,
+          53.6853195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969186925",
+      "properties": {
+        "@id": "node/969186925",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kabiaka",
+        "name": "улица Кабяка",
+        "name:be": "вуліца Кабяка",
+        "name:ru": "улица Кабяка",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8489121,
+          53.6431905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358804",
+      "properties": {
+        "@id": "node/969358804",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kachanoŭskaha",
+        "name": "улица Кохановского",
+        "name:be": "вуліца Каханоўскага",
+        "name:ru": "улица Кохановского",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8468245,
+          53.6899993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358821",
+      "properties": {
+        "@id": "node/969358821",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ № 27",
+        "name:be": "СШ № 27",
+        "name:ru": "СШ № 27",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8493517,
+          53.7152667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358826",
+      "properties": {
+        "@id": "node/969358826",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Зоопарк",
+        "name:be": "Заапарк",
+        "name:ru": "Зоопарк",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8464828,
+          53.6891614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358849",
+      "properties": {
+        "@id": "node/969358849",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–5",
+        "name": "Девятовка–5",
+        "name:be": "Дзевятоўка–5",
+        "name:ru": "Девятовка–5",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8594652,
+          53.7113414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358852",
+      "properties": {
+        "@id": "node/969358852",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Районные электрические сети",
+        "name:be": "Раённыя электрычныя сеткі",
+        "name:ru": "Районные электрические сети",
+        "old_name": "улица Тавлая",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8554112,
+          53.6954318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358856",
+      "properties": {
+        "@id": "node/969358856",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–4",
+        "name": "Девятовка–4",
+        "name:be": "Дзевятоўка–4",
+        "name:ru": "Девятовка–4",
+        "old_name": "улица Тавлая",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8584413,
+          53.714422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358860",
+      "properties": {
+        "@id": "node/969358860",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Лидская улица",
+        "name:be": "Лідская вуліца",
+        "name:ru": "Лидская улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8545589,
+          53.6714712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358868",
+      "properties": {
+        "@id": "node/969358868",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "парк Районная",
+        "name:be": "парк Раённая",
+        "name:ru": "парк Районная",
+        "old_name": "Лапенки",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84862,
+          53.7161142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358884",
+      "properties": {
+        "@id": "node/969358884",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Лидская улица",
+        "name:be": "Лідская вуліца",
+        "name:ru": "Лидская улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8539894,
+          53.6720524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358888",
+      "properties": {
+        "@id": "node/969358888",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Дорожно-строительный трест №6",
+        "name:be": "Дарожна-будаўнічы трэст №6",
+        "name:ru": "Дорожно-строительный трест №6",
+        "old_name": "Автобусный парк №1",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8300394,
+          53.6602473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/969358897",
+      "properties": {
+        "@id": "node/969358897",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "парк Районная",
+        "name:be": "парк Раённая",
+        "name:ru": "парк Районная",
+        "old_name": "Лапенки",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8506385,
+          53.715868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015286529",
+      "properties": {
+        "@id": "node/1015286529",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Университет",
+        "name:be": "Універсітэт",
+        "name:ru": "Университет",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8403849,
+          53.6842957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015286531",
+      "properties": {
+        "@id": "node/1015286531",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "гостиница \"Гродно\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8025831,
+          53.6707675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015286532",
+      "properties": {
+        "@id": "node/1015286532",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Университет",
+        "name:be": "Універсітэт",
+        "name:ru": "Университет",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8387755,
+          53.6843049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015286533",
+      "properties": {
+        "@id": "node/1015286533",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Обувная фабрика \"Неман\"",
+        "name:be": "Абутковая фабрыка \"Нёман\"",
+        "name:ru": "Обувная фабрика \"Неман\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8040908,
+          53.6715705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015286535",
+      "properties": {
+        "@id": "node/1015286535",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Karbyšava",
+        "name": "улица Карбышева",
+        "name:be": "вуліца Карбышава",
+        "name:ru": "улица Карбышева",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8407743,
+          53.6806717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1017096351",
+      "properties": {
+        "@id": "node/1017096351",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Родильный дом",
+        "name:be": "Радзільны дом",
+        "name:ru": "Родильный дом",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8191926,
+          53.7005838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1176774207",
+      "properties": {
+        "@id": "node/1176774207",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "КСМ",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8078134,
+          53.7185067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1194420972",
+      "properties": {
+        "@id": "node/1194420972",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Островского",
+        "name:be": "вуліца Астроўскага",
+        "name:ru": "улица Островского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8267966,
+          53.69018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1248149821",
+      "properties": {
+        "@id": "node/1248149821",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Строительный лицей",
+        "name:be": "Будаўнічы ліцэй",
+        "name:ru": "Строительный лицей",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7942304,
+          53.6537641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1248150148",
+      "properties": {
+        "@id": "node/1248150148",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Строительный лицей",
+        "name:be": "Будаўнічы ліцэй",
+        "name:ru": "Строительный лицей",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7950624,
+          53.6536873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256409910",
+      "properties": {
+        "@id": "node/1256409910",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Советских Пограничников",
+        "name:be": "вуліца Савецкіх Пагранічнікаў",
+        "name:ru": "улица Советских Пограничников",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8113306,
+          53.6705939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256410412",
+      "properties": {
+        "@id": "node/1256410412",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Советских Пограничников",
+        "name:be": "вуліца Савецкіх Пагранічнікаў",
+        "name:ru": "улица Советских Пограничников",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8098216,
+          53.6710566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256772885",
+      "properties": {
+        "@id": "node/1256772885",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница №2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8212776,
+          53.6712078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256774191",
+      "properties": {
+        "@id": "node/1256774191",
+        "highway": "bus_stop",
+        "name": "2-я Городская больница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8199528,
+          53.6718593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256779549",
+      "properties": {
+        "@id": "node/1256779549",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Свердлова",
+        "name:be": "вуліца Свярдлова",
+        "name:ru": "улица Свердлова",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8329121,
+          53.6757756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256784537",
+      "properties": {
+        "@id": "node/1256784537",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "СШ №2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8448494,
+          53.6895372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256845828",
+      "properties": {
+        "@id": "node/1256845828",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Электротехнический колледж",
+        "name:be": "Электратэхнічны каледж",
+        "name:ru": "Электротехнический колледж",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8400373,
+          53.6991603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1271367429",
+      "properties": {
+        "@id": "node/1271367429",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Дзержинского",
+        "name:be": "вуліца Дзяржынскага",
+        "name:ru": "улица Дзержинского",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8400464,
+          53.701904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1290401320",
+      "properties": {
+        "@id": "node/1290401320",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Девятовка",
+        "name:be": "Дзевятоўка",
+        "name:ru": "Девятовка",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.840061,
+          53.7116039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1290405083",
+      "properties": {
+        "@id": "node/1290405083",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "улица Белые Росы",
+        "name:be": "вуліца Белыя Росы",
+        "name:ru": "улица Белые Росы",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8396676,
+          53.7154654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1290407694",
+      "properties": {
+        "@id": "node/1290407694",
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "улица Белые Росы",
+        "name:be": "вуліца Белыя Росы",
+        "name:ru": "улица Белые Росы",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8401143,
+          53.7167357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1290407696",
+      "properties": {
+        "@id": "node/1290407696",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Белые Росы",
+        "name:be": "вуліца Белыя Росы",
+        "name:ru": "улица Белые Росы",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8408115,
+          53.7160317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1326828671",
+      "properties": {
+        "@id": "node/1326828671",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Музыкальный колледж",
+        "name:be": "Музычны каледж",
+        "name:ru": "Музыкальный колледж",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8439646,
+          53.6581372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328437289",
+      "properties": {
+        "@id": "node/1328437289",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Haharyna",
+        "name": "улица Гагарина",
+        "name:be": "вуліца Гагарына",
+        "name:ru": "улица Гагарина",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8157798,
+          53.6725347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1328437318",
+      "properties": {
+        "@id": "node/1328437318",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Haharyna",
+        "name": "улица Гагарина",
+        "name:be": "вуліца Гагарына",
+        "name:ru": "улица Гагарина",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8122519,
+          53.6731748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523242464",
+      "properties": {
+        "@id": "node/1523242464",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гродно АТЭП",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8008567,
+          53.6561527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523245557",
+      "properties": {
+        "@id": "node/1523245557",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Стоматологическая поликлиника",
+        "name:be": "Стаматалагічная паліклініка",
+        "name:ru": "Стоматологическая поликлиника",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8075994,
+          53.658576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523246676",
+      "properties": {
+        "@id": "node/1523246676",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Табачная фабрика",
+        "name:be": "Тытунёвая фабрыка",
+        "name:ru": "Табачная фабрика",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8199001,
+          53.6653968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523250230",
+      "properties": {
+        "@id": "node/1523250230",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Магазин \"Фламинго\"",
+        "name:be": "Магазін \"Фламінга\"",
+        "name:ru": "Магазин \"Фламинго\"",
+        "old_name": "Фолюш",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.783216,
+          53.6627425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523251173",
+      "properties": {
+        "@id": "node/1523251173",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ольги Соломовой",
+        "name:be": "вуліца Вольгі Саломавай",
+        "name:ru": "улица Ольги Соломовой",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.779282,
+          53.6542386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523251556",
+      "properties": {
+        "@id": "node/1523251556",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гродножилстрой",
+        "name:ru": "Гродножилстрой",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7833626,
+          53.6494734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523252006",
+      "properties": {
+        "@id": "node/1523252006",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гродножилстрой",
+        "name:ru": "Гродножилстрой",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7841027,
+          53.6500627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523252293",
+      "properties": {
+        "@id": "node/1523252293",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "АЗС",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7884645,
+          53.651212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523252489",
+      "properties": {
+        "@id": "node/1523252489",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "АЗС",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7874796,
+          53.6513263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523253307",
+      "properties": {
+        "@id": "node/1523253307",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ГАП №2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8122766,
+          53.6571769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523253312",
+      "properties": {
+        "@id": "node/1523253312",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "ГАП №2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8143143,
+          53.658163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523253943",
+      "properties": {
+        "@id": "node/1523253943",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Пучкова",
+        "name:be": "вуліца Пучкова",
+        "name:ru": "улица Пучкова",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.807523,
+          53.6524791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523254214",
+      "properties": {
+        "@id": "node/1523254214",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Пучкова",
+        "name:be": "вуліца Пучкова",
+        "name:ru": "улица Пучкова",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8073567,
+          53.6539066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523254494",
+      "properties": {
+        "@id": "node/1523254494",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kalinina",
+        "name": "улица Калинина",
+        "name:be": "вуліца Калініна",
+        "name:ru": "улица Калинина",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8106996,
+          53.6512652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523254861",
+      "properties": {
+        "@id": "node/1523254861",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kalinina",
+        "name": "улица Калинина",
+        "name:be": "вуліца Калініна",
+        "name:ru": "улица Калинина",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8131234,
+          53.6505333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523255096",
+      "properties": {
+        "@id": "node/1523255096",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Краснознамённая улица",
+        "name:be": "Чырвонасцяжная вуліца",
+        "name:ru": "Краснознамённая улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8150654,
+          53.6504697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523255315",
+      "properties": {
+        "@id": "node/1523255315",
+        "highway": "bus_stop",
+        "name": "АЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8184103,
+          53.6524711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523255490",
+      "properties": {
+        "@id": "node/1523255490",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "АЗС",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8166239,
+          53.6521063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523257240",
+      "properties": {
+        "@id": "node/1523257240",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Соколовского",
+        "name:be": "вуліца Сакалоўскаго",
+        "name:ru": "улица Соколовского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.803342,
+          53.6619299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523257242",
+      "properties": {
+        "@id": "node/1523257242",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Соколовского",
+        "name:be": "вуліца Сакалоўскаго",
+        "name:ru": "улица Соколовского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8026954,
+          53.6629697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523259844",
+      "properties": {
+        "@id": "node/1523259844",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Издательская улица",
+        "name:be": "Выдавецкая вуліца",
+        "name:ru": "Издательская улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8091315,
+          53.6481324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523259846",
+      "properties": {
+        "@id": "node/1523259846",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Окульная улица",
+        "name:be": "Акульная вуліца",
+        "name:ru": "Окульная улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8025468,
+          53.6502146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523259849",
+      "properties": {
+        "@id": "node/1523259849",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Окульная улица",
+        "name:be": "Акульная вуліца",
+        "name:ru": "Окульная улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8037513,
+          53.6494477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523488140",
+      "properties": {
+        "@id": "node/1523488140",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Славинского",
+        "name:be": "вуліца Славінскага",
+        "name:ru": "улица Славинского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8309384,
+          53.6473809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523488162",
+      "properties": {
+        "@id": "node/1523488162",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Химволокно",
+        "name:be": "Хімвалакно",
+        "name:ru": "Химволокно",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8241787,
+          53.6459571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523488164",
+      "properties": {
+        "@id": "node/1523488164",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Химволокно",
+        "name:be": "Хімвалакно",
+        "name:ru": "Химволокно",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8244004,
+          53.6463619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523488166",
+      "properties": {
+        "@id": "node/1523488166",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Славинского",
+        "name:be": "вуліца Славінскага",
+        "name:ru": "улица Славинского",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.832631,
+          53.6472783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523499632",
+      "properties": {
+        "@id": "node/1523499632",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Traliejbusnaje upraŭliennie",
+        "name": "Троллейбусное управление",
+        "name:be": "Тралейбуснае упраўленне",
+        "name:ru": "Троллейбусное управление",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8652797,
+          53.6739277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523500354",
+      "properties": {
+        "@id": "node/1523500354",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Судмедэкспертиза",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8776393,
+          53.6725186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1523500355",
+      "properties": {
+        "@id": "node/1523500355",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Курган Славы",
+        "name:be": "Курган Славы",
+        "name:ru": "Курган Славы",
+        "old_name": "Автосервис",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8721664,
+          53.6731629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1545785655",
+      "properties": {
+        "@id": "node/1545785655",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Издательская улица",
+        "name:be": "Выдавецкая вуліца",
+        "name:ru": "Издательская улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8098946,
+          53.6475106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1598365230",
+      "properties": {
+        "@id": "node/1598365230",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Курган Славы",
+        "name:be": "Курган Славы",
+        "name:ru": "Курган Славы",
+        "old_name": "Автосервис",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8730444,
+          53.6727722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1598365253",
+      "properties": {
+        "@id": "node/1598365253",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Судмедэкспертиза",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8782057,
+          53.6722739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1598365280",
+      "properties": {
+        "@id": "node/1598365280",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Поповича",
+        "name:be": "вуліца Паповіча",
+        "name:ru": "улица Поповича",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8011209,
+          53.6671967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1638426900",
+      "properties": {
+        "@id": "node/1638426900",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Аптечный склад",
+        "name:be": "Аптэчны склад",
+        "name:ru": "Аптечный склад",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8395822,
+          53.7064756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1638426911",
+      "properties": {
+        "@id": "node/1638426911",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Аптечный склад",
+        "name:be": "Аптэчны склад",
+        "name:ru": "Аптечный склад",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8401129,
+          53.7056629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1638426912",
+      "properties": {
+        "@id": "node/1638426912",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Брикеля",
+        "name:be": "вуліца Брыкеля",
+        "name:ru": "улица Брикеля",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8414376,
+          53.7009549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1638426916",
+      "properties": {
+        "@id": "node/1638426916",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Господарчая улица",
+        "name:be": "Гаспадарчая вуліца",
+        "name:ru": "Господарчая улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8295504,
+          53.7065553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1638426925",
+      "properties": {
+        "@id": "node/1638426925",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "производство \"Автоагрегатов\"",
+        "name:be": "вытворчасць \"Аўтаагрэгатаў\"",
+        "name:ru": "производство \"Автоагрегатов\"",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8274318,
+          53.7064818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1648213200",
+      "properties": {
+        "@id": "node/1648213200",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Поликлиника",
+        "name:be": "Паліклініка",
+        "name:ru": "Поликлиника",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7880155,
+          53.6945118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1703461189",
+      "properties": {
+        "@id": "node/1703461189",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Тавлая",
+        "name:be": "вуліца Таўлая",
+        "name:ru": "улица Тавлая",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8591456,
+          53.7054695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1703461238",
+      "properties": {
+        "@id": "node/1703461238",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Kurčatava",
+        "name": "улица Курчатова",
+        "name:be": "вуліца Курчатава",
+        "name:ru": "улица Курчатова",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8504604,
+          53.7067213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1715874572",
+      "properties": {
+        "@id": "node/1715874572",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Данилова",
+        "name:be": "вуліца Данілава",
+        "name:ru": "улица Данилова",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7852081,
+          53.6557559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1731282240",
+      "properties": {
+        "@id": "node/1731282240",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Производственный комбинат",
+        "name:be": "Вытворчы камбінат",
+        "name:ru": "Производственный комбинат",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7944267,
+          53.6524205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1731539385",
+      "properties": {
+        "@id": "node/1731539385",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Репина",
+        "name:be": "вуліца Рэпіна",
+        "name:ru": "улица Репина",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7859567,
+          53.6549158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775264966",
+      "properties": {
+        "@id": "node/1775264966",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Магистральная улица",
+        "name:be": "Магістральная вуліца",
+        "name:ru": "Магистральная улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8602007,
+          53.6842259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1775264970",
+      "properties": {
+        "@id": "node/1775264970",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Магистральная улица",
+        "name:be": "Магістральная вуліца",
+        "name:ru": "Магистральная улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.859812,
+          53.6850209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1782787378",
+      "properties": {
+        "@id": "node/1782787378",
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "Лапенки",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8388313,
+          53.7206435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1850620819",
+      "properties": {
+        "@id": "node/1850620819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "производство \"Автоагрегатов\"",
+        "name:be": "вытворчасць \"Аўтаагрэгатаў\"",
+        "name:ru": "производство \"Автоагрегатов\"",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8227619,
+          53.7055969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1863721263",
+      "properties": {
+        "@id": "node/1863721263",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Большая Каплица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8905773,
+          53.6914579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2072145228",
+      "properties": {
+        "@id": "node/2072145228",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Госпиталь",
+        "name:be": "Шпіталь",
+        "name:ru": "Госпиталь",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8376481,
+          53.6914986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2072145229",
+      "properties": {
+        "@id": "node/2072145229",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница №4",
+        "name:be": "Бальніца №4",
+        "name:ru": "Больница №4",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8607439,
+          53.6494105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075107695",
+      "properties": {
+        "@id": "node/2075107695",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Детская больница",
+        "name:be": "Дзіцячая бальніца",
+        "name:ru": "Детская больница",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8347037,
+          53.6906623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075107696",
+      "properties": {
+        "@id": "node/2075107696",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Врублевского",
+        "name:be": "вуліца Урублеўскага",
+        "name:ru": "улица Врублевского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8053849,
+          53.709164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2075107697",
+      "properties": {
+        "@id": "node/2075107697",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Врублевского",
+        "name:be": "вуліца Урублеўскага",
+        "name:ru": "улица Врублевского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8045949,
+          53.7092353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079132685",
+      "properties": {
+        "@id": "node/2079132685",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гроднозеленстрой",
+        "name:ru": "Гроднозеленстрой",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7884031,
+          53.690215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079132692",
+      "properties": {
+        "@id": "node/2079132692",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "МЧС",
+        "name:be": "МНС",
+        "name:ru": "МЧС",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8284446,
+          53.7006402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079132703",
+      "properties": {
+        "@id": "node/2079132703",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Областная больница",
+        "name:be": "Абласная бальніца",
+        "name:ru": "Областная больница",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.792853,
+          53.6954153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079132714",
+      "properties": {
+        "@id": "node/2079132714",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Почта",
+        "name:be": "Пошта",
+        "name:ru": "Почта",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8431647,
+          53.6416926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2079132727",
+      "properties": {
+        "@id": "node/2079132727",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Дзержинского",
+        "name:be": "вуліца Дзяржынскага",
+        "name:ru": "улица Дзержинского",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.838135,
+          53.7013102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090886205",
+      "properties": {
+        "@id": "node/2090886205",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гроднопромстрой",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8619122,
+          53.6753105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090886206",
+      "properties": {
+        "@id": "node/2090886206",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Поликлиника №5",
+        "name:be": "Паліклініка №5",
+        "name:ru": "Поликлиника №5",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8623705,
+          53.679154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090886207",
+      "properties": {
+        "@id": "node/2090886207",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Поликлиника №5",
+        "name:be": "Паліклініка №5",
+        "name:ru": "Поликлиника №5",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8630765,
+          53.6803552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194105380",
+      "properties": {
+        "@id": "node/2194105380",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница №2",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8193852,
+          53.6720714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194294116",
+      "properties": {
+        "@id": "node/2194294116",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Аграрный университет",
+        "name:be": "Аграрны ўніверсітэт",
+        "name:ru": "Аграрный университет",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8459006,
+          53.6952704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194294117",
+      "properties": {
+        "@id": "node/2194294117",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница скорой помощи",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7951941,
+          53.6727796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194294118",
+      "properties": {
+        "@id": "node/2194294118",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Больница скорой помощи",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7928303,
+          53.673468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194294119",
+      "properties": {
+        "@id": "node/2194294119",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Воинская часть",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7853558,
+          53.6742048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194294120",
+      "properties": {
+        "@id": "node/2194294120",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Воинская часть",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7844439,
+          53.6745958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2194294121",
+      "properties": {
+        "@id": "node/2194294121",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Cieraškovaj",
+        "name": "улица Терешковой",
+        "name:be": "вуліца Церашковай",
+        "name:ru": "улица Терешковой",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8393342,
+          53.6942767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2198107909",
+      "properties": {
+        "@id": "node/2198107909",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Падрыжацкая улица",
+        "name:be": "Падрыжацкая вуліца",
+        "name:ru": "Падрыжацкая улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8588343,
+          53.7006296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2199954875",
+      "properties": {
+        "@id": "node/2199954875",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "КСМ",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8081468,
+          53.7190603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2199954878",
+      "properties": {
+        "@id": "node/2199954878",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Dziaržynskaha",
+        "name": "улица Дзержинского",
+        "name:be": "вуліца Дзяржынскага",
+        "name:ru": "улица Дзержинского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8365837,
+          53.6890093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2199954879",
+      "properties": {
+        "@id": "node/2199954879",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Dziaržynskaha",
+        "name": "улица Дзержинского",
+        "name:be": "вуліца Дзяржынскага",
+        "name:ru": "улица Дзержинского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8355098,
+          53.6891062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2205158374",
+      "properties": {
+        "@id": "node/2205158374",
+        "highway": "bus_stop",
+        "name": "Заводоуправление",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8929702,
+          53.6764749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2207492012",
+      "properties": {
+        "@id": "node/2207492012",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Союзпроммонтаж",
+        "name:ru": "Союзпроммонтаж",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.907958,
+          53.6671321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2211711899",
+      "properties": {
+        "@id": "node/2211711899",
+        "highway": "bus_stop",
+        "name": "СШ №37",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7804694,
+          53.6566352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2222979844",
+      "properties": {
+        "@id": "node/2222979844",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Островского",
+        "name:be": "вуліца Астроўскага",
+        "name:ru": "улица Островского",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8291592,
+          53.6904942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2222979850",
+      "properties": {
+        "@id": "node/2222979850",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Puškina",
+        "name": "улица Пушкина",
+        "name:be": "вуліца Пушкіна",
+        "name:ru": "улица Пушкина",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8334443,
+          53.6963093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2264912745",
+      "properties": {
+        "@id": "node/2264912745",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Hrandzickaja vulica",
+        "name": "Грандичская улица",
+        "name:be": "Грандзіцкая вуліца",
+        "name:ru": "Грандичская улица",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8150305,
+          53.7216959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2264912747",
+      "properties": {
+        "@id": "node/2264912747",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Мясокомбинат",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8255581,
+          53.7241451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2264912748",
+      "properties": {
+        "@id": "node/2264912748",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автокомбинат № 6",
+        "name:be": "Аўтакамбінат № 6",
+        "name:ru": "Автокомбинат № 6",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8233402,
+          53.7221997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2270953861",
+      "properties": {
+        "@id": "node/2270953861",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ледовый дворец",
+        "name:be": "Лядовы палац",
+        "name:ru": "Ледовый дворец",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8257646,
+          53.6895077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272091099",
+      "properties": {
+        "@id": "node/2272091099",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Озёрское шоссе",
+        "name:be": "Азёрская шаша",
+        "name:ru": "Озёрское шоссе",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8550851,
+          53.6888004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272308047",
+      "properties": {
+        "@id": "node/2272308047",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Азот",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8921021,
+          53.6728254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272308049",
+      "properties": {
+        "@id": "node/2272308049",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Заводоуправление",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8923357,
+          53.6774814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272920723",
+      "properties": {
+        "@id": "node/2272920723",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Автокомбинат № 6",
+        "name:be": "Аўтакамбінат № 6",
+        "name:ru": "Автокомбинат № 6",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8219711,
+          53.7225786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272920729",
+      "properties": {
+        "@id": "node/2272920729",
+        "bench": "yes",
+        "bus": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "name": "Лапенки",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8396099,
+          53.7197811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272920736",
+      "properties": {
+        "@id": "node/2272920736",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Мясокомбинат",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8270443,
+          53.7217496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2277560662",
+      "properties": {
+        "@id": "node/2277560662",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "1000 мелочей",
+        "name:be": "1000 дробязей",
+        "name:ru": "1000 мелочей",
+        "name:uk": "1000 дрібниць",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7914571,
+          53.6700958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2280088987",
+      "properties": {
+        "@id": "node/2280088987",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–5",
+        "name": "Девятовка–5",
+        "name:be": "Дзевятоўка–5",
+        "name:ru": "Девятовка–5",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8586275,
+          53.7110458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281093779",
+      "properties": {
+        "@id": "node/2281093779",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Поликлиника",
+        "name:be": "Паліклініка",
+        "name:ru": "Поликлиника",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7883766,
+          53.6953571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281093780",
+      "properties": {
+        "@id": "node/2281093780",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Производственный комбинат",
+        "name:be": "Вытворчы камбінат",
+        "name:ru": "Производственный комбинат",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7914384,
+          53.6537806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2286941687",
+      "properties": {
+        "@id": "node/2286941687",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Гродно АТЭП",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8009042,
+          53.6558524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2290682893",
+      "properties": {
+        "@id": "node/2290682893",
+        "highway": "bus_stop",
+        "name": "завод \"БелТАПАЗ\"",
+        "name:ru": "завод \"БелТАПАЗ\"",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8255569,
+          53.7142904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2296311715",
+      "properties": {
+        "@id": "node/2296311715",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ольги Соломовой",
+        "name:be": "вуліца Вольгі Саломавай",
+        "name:ru": "улица Ольги Соломовой",
+        "public_transport": "platform",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7874498,
+          53.6663653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2304002014",
+      "properties": {
+        "@id": "node/2304002014",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Большая Каплица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8921717,
+          53.6913978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2304012840",
+      "properties": {
+        "@id": "node/2304012840",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "база \"Галантерея\"",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.871111,
+          53.6904967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2304012841",
+      "properties": {
+        "@id": "node/2304012841",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "база \"Галантерея\"",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8689652,
+          53.6906097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2342024542",
+      "properties": {
+        "@id": "node/2342024542",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Магазин \"Родны кут\"",
+        "name:be": "Магазін \"Родны кут\"",
+        "name:ru": "Магазин \"Родны кут\"",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8670975,
+          53.7136291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2342024681",
+      "properties": {
+        "@id": "node/2342024681",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–7",
+        "name": "Девятовка–7",
+        "name:be": "Дзевятоўка–7",
+        "name:ru": "Девятовка–7",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8719436,
+          53.7133391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2343656190",
+      "properties": {
+        "@id": "node/2343656190",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–4",
+        "name": "Девятовка–4",
+        "name:be": "Дзевятоўка–4",
+        "name:ru": "Девятовка–4",
+        "old_name": "улица Белые Росы",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8574555,
+          53.7153341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2347003865",
+      "properties": {
+        "@id": "node/2347003865",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Азот",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8917123,
+          53.6689473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2364941426",
+      "properties": {
+        "@id": "node/2364941426",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Магазин \"Фламинго\"",
+        "name:be": "Магазін \"Фламінга\"",
+        "name:ru": "Магазин \"Фламинго\"",
+        "old_name": "Фолюш",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7841221,
+          53.6635265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365478997",
+      "properties": {
+        "@id": "node/2365478997",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Мини-рынок",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7870896,
+          53.6654786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2369278315",
+      "properties": {
+        "@id": "node/2369278315",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Данилова",
+        "name:be": "вуліца Данілава",
+        "name:ru": "улица Данилова",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7831401,
+          53.6562578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2453208156",
+      "properties": {
+        "@id": "node/2453208156",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Южная улица",
+        "name:be": "Паўднёвая вуліца",
+        "name:ru": "Южная улица",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.870382,
+          53.6434019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2567084046",
+      "properties": {
+        "@id": "node/2567084046",
+        "highway": "bus_stop",
+        "name": "Механический завод"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8890765,
+          53.6771025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2567086814",
+      "properties": {
+        "@id": "node/2567086814",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8957031,
+          53.6804102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2574266485",
+      "properties": {
+        "@id": "node/2574266485",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Budzionaha",
+        "name": "улица Будённого",
+        "name:be": "вуліца Будзёнага",
+        "name:ru": "улица Будённого",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8451479,
+          53.6829179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2630823976",
+      "properties": {
+        "@id": "node/2630823976",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кабяка – 2",
+        "name:be": "вуліца Кабяка – 2",
+        "name:ru": "улица Кабяка – 2",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8585625,
+          53.6449459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2631283640",
+      "properties": {
+        "@id": "node/2631283640",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кабяка – 2",
+        "name:be": "вуліца Кабяка – 2",
+        "name:ru": "улица Кабяка – 2",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8652956,
+          53.6469405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2660413107",
+      "properties": {
+        "@id": "node/2660413107",
+        "bench": "no",
+        "bus": "yes",
+        "covered": "no",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–7",
+        "name": "Девятовка–7",
+        "name:be": "Дзевятоўка–7",
+        "name:ru": "Девятовка–7",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8682051,
+          53.7133669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2690057477",
+      "properties": {
+        "@id": "node/2690057477",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Собор",
+        "name:be": "Сабор",
+        "name:ru": "Собор",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.841992,
+          53.6850408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2897668489",
+      "properties": {
+        "@id": "node/2897668489",
+        "highway": "bus_stop",
+        "name": "4-й Подольный переулок"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.845149,
+          53.6687527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2904637408",
+      "properties": {
+        "@id": "node/2904637408",
+        "highway": "bus_stop",
+        "name": "Центральный рынок"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8419701,
+          53.6723387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2904639194",
+      "properties": {
+        "@id": "node/2904639194",
+        "highway": "bus_stop",
+        "name": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8491316,
+          53.6722307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3124783484",
+      "properties": {
+        "@id": "node/3124783484",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "vulica Maslakova",
+        "name": "улица Маслакова",
+        "name:be": "вуліца Маслакова",
+        "name:ru": "улица Маслакова",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8171379,
+          53.6461151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298249968",
+      "properties": {
+        "@id": "node/3298249968",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Вечерняя школа",
+        "name:be": "Вячэрняя школа",
+        "name:ru": "Вечерняя школа",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8347978,
+          53.6796362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3298249969",
+      "properties": {
+        "@id": "node/3298249969",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Вечерняя школа",
+        "name:be": "Вячэрняя школа",
+        "name:ru": "Вечерняя школа",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.835209,
+          53.6798022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3596106953",
+      "properties": {
+        "@id": "node/3596106953",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–7",
+        "name": "Девятовка–7 [без посадки и высадки]",
+        "name:be": "Дзевятоўка–7",
+        "name:ru": "Девятовка–7 [без посадки и высадки]",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8741672,
+          53.7139517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3643501538",
+      "properties": {
+        "@id": "node/3643501538",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "int_name": "Dzieviatoŭka–5",
+        "name": "Девятовка–5",
+        "name:be": "Дзевятоўка–5",
+        "name:ru": "Девятовка–5",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8598595,
+          53.7104732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3662389325",
+      "properties": {
+        "@id": "node/3662389325",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Союзпроммонтаж",
+        "name:ru": "Союзпроммонтаж",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9107326,
+          53.6665546
+        ]
+      }
+    }
+  ]
+}
